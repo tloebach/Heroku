@@ -1,2 +1,7 @@
 THis is a text file.
 This is a text file
+
+linr 2
+line 3
+line 4
+line 5
